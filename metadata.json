@@ -1,0 +1,8 @@
+{
+  "name": "Remix Literature Studio",
+  "description": "A professional AI-powered hub for managing music, video, and literature with integrated tools for seamless presentations and meetings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

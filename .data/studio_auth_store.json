@@ -1,0 +1,81 @@
+{
+  "accounts": [
+    {
+      "uid": "a8cb5948-8b48-4287-8277-9a1d42036b2f",
+      "username": "lecongvinh",
+      "email": "lecongvinhfm00@gmail.com",
+      "displayName": "Lê Công Vinh (Admin)",
+      "avatarUrl": "",
+      "passwordHash": "8c306606146a9da3e2c2ea7a1f1331935f782202b5dda35dd6497819df052205",
+      "role": "admin",
+      "accountStatus": "active",
+      "isLocked": false,
+      "mustChangePassword": false,
+      "isInitialBootstrap": false,
+      "createdAt": "2026-11-17T03:51:13.809Z",
+      "updatedAt": "2026-11-17T03:52:49.494Z"
+    },
+    {
+      "uid": "8fdf4a41-e3b0-4e97-b14f-9c1a1c797179",
+      "username": "vandat",
+      "email": "datnguyen02092009@gmail.com",
+      "displayName": "Vandat",
+      "avatarUrl": "",
+      "passwordHash": "6fd207697b3bb2acdaba59a35496e5e049932b2bff3678e391b1965d83fcbd71",
+      "role": "user",
+      "accountStatus": "active",
+      "isLocked": false,
+      "mustChangePassword": false,
+      "isInitialBootstrap": false,
+      "createdAt": "2026-11-17T03:52:06.534Z",
+      "updatedAt": "2026-11-17T03:52:06.534Z"
+    }
+  ],
+  "devices": {
+    "8fdf4a41-e3b0-4e97-b14f-9c1a1c797179": [
+      {
+        "id": "782eec3d-2564-4f27-80ec-7b25bec74f52",
+        "userId": "8fdf4a41-e3b0-4e97-b14f-9c1a1c797179",
+        "deviceFingerprint": "dev-8765318d-aea",
+        "deviceName": "Apple Safari trên iOS / iPadOS",
+        "deviceType": "tablet",
+        "platform": "iOS / iPadOS",
+        "browser": "Apple Safari",
+        "sessionStatus": "signed_out",
+        "isRevoked": false,
+        "lastActiveAt": "2026-11-17T03:52:22.579Z",
+        "createdAt": "2026-11-17T03:52:06.537Z"
+      }
+    ],
+    "a8cb5948-8b48-4287-8277-9a1d42036b2f": [
+      {
+        "id": "6e97609d-cded-4501-8951-de370636960b",
+        "userId": "a8cb5948-8b48-4287-8277-9a1d42036b2f",
+        "deviceFingerprint": "dev-1c007c87-238",
+        "deviceName": "Google Chrome trên Linux / Web",
+        "deviceType": "desktop",
+        "platform": "Linux / Web",
+        "browser": "Google Chrome",
+        "sessionStatus": "active",
+        "isRevoked": false,
+        "lastActiveAt": "2026-11-17T03:52:49.494Z",
+        "createdAt": "2026-11-17T03:52:49.494Z"
+      },
+      {
+        "id": "d20b3ea0-dcef-421c-8f4f-b15186fbab19",
+        "userId": "a8cb5948-8b48-4287-8277-9a1d42036b2f",
+        "deviceFingerprint": "dev-8765318d-aea",
+        "deviceName": "Apple Safari trên iOS / iPadOS",
+        "deviceType": "tablet",
+        "platform": "iOS / iPadOS",
+        "browser": "Apple Safari",
+        "sessionStatus": "active",
+        "isRevoked": false,
+        "lastActiveAt": "2026-11-17T03:52:38.589Z",
+        "createdAt": "2026-11-17T03:52:38.589Z"
+      }
+    ]
+  },
+  "workspaces": {},
+  "auditLogs": []
+}
